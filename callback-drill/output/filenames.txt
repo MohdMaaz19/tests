@@ -1,0 +1,3 @@
+lipsumUpperCase.txt
+lipsumLowerCase.txt
+sortedFile.txt
